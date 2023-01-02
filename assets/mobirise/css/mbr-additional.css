@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-s48MCQYojq {
-  background-image: url("../../../assets/images/jerome-comentale-hogwarts-1920x802.jpg");
+  background-image: url("../../../assets/images/hand-drawn-kids-drawing-illustration-set-of-happy-new-year-2023-in-a-cartoon-style-vector-1763x980.jpg");
 }
 .cid-s48MCQYojq .mbr-section-title {
   text-align: center;
@@ -700,51 +700,10 @@ a {
     text-align: center;
   }
 }
-.cid-tfBnCyYzts {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-tfBnCyYzts .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tfBnCyYzts .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tfBnCyYzts .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #6592e6;
-  margin-bottom: 2rem;
-}
-.cid-tfBnCyYzts .card-wrapper {
-  padding: 3rem;
-  background: #fafafa;
-  border-radius: 4px;
-}
-@media (max-width: 992px) {
-  .cid-tfBnCyYzts .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tfBnCyYzts .card-wrapper {
-    padding: 3rem 1rem;
-  }
-}
-.cid-tfBnCyYzts .mbr-section-title {
-  text-align: center;
-}
 .cid-tfBI4ZUiA3 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #232323;
+  background-color: #353535;
   overflow: hidden;
 }
 .cid-tfCI9uGsBa {
@@ -1591,7 +1550,7 @@ a {
 }
 .cid-tfBMOTlb7Y {
   padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tfBMOTlb7Y .mbr-fallback-image.disabled {
@@ -1621,6 +1580,40 @@ a {
   margin-top: 3rem;
 }
 .cid-tfBMOTlb7Y .row {
+  justify-content: center;
+}
+.cid-tiAZUNKKMf {
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tiAZUNKKMf .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tiAZUNKKMf .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (min-width: 1500px) {
+  .cid-tiAZUNKKMf .container {
+    max-width: 1400px;
+  }
+}
+.cid-tiAZUNKKMf .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-tiAZUNKKMf .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-tiAZUNKKMf .row {
   justify-content: center;
 }
 .cid-tfBI4ZUiA3 {
