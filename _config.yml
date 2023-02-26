@@ -106,13 +106,14 @@ analytics:
 author:
   name             : "Xinya Jiang" #左侧个人资料
   avatar           : "/assets/images/pw.jpeg"
-  bio              : "M.A. student at NJU"
+  bio              : "M.A. student at NJU
+                      Email: xinya.jiang [at] smail.nju.edu.cn"
   location         : "Nanjing, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "xinya.jiang@smail.nju.edu.cn"
+      #url: "xinya.jiang@smail.nju.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
