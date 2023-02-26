@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinya Jiang" #标签页title
+title                    : "Xinya Jiang 姜新雅" #标签页title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Xinya Jiang" #左侧个人资料
   avatar           : "/assets/images/pw.jpeg"
-  bio              : "姜新雅\nM.A. student at NJU\nEmail: xinya.jiang [at] smail.nju.edu.cn"
+  bio              : "M.A. student at NJU\n\nEmail: xinya.jiang [at] smail.nju.edu.cn"
   location         : "Nanjing, China"
   email            :
   links:
