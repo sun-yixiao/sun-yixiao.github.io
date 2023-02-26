@@ -1,5 +1,5 @@
 layout: page
 title: About
-permalinke: /about/
+permalinke: /
 
 Hi! I am Xinya Jiang.
