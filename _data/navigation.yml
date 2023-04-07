@@ -4,8 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
      url: https://alexandrajiang.github.io/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Research"
+     url: /Research/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
