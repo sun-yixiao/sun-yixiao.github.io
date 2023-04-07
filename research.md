@@ -1,4 +1,4 @@
-# Conference Paper
+## Conference Paper
 
 **Jiang, X.** (2023). Authoritarian Personality, Partisan Media Selective Exposure, and Gun Attitudes. Poster to be presented at the 119th American Political Science Association (APSA) Annual Meeting & Exhibition, Los Angeles, USA.
 
@@ -8,6 +8,6 @@ Yan, L., Ni, Y., Tan, X., **Jiang, X.**, Chen, Z. & Wang, C. (2023). The Narrati
 
 **Jiang, X.**, Hu, S., Fei, Y. & Wang, C. (2022). The Reinforcement of Opinion Polarization on the Smart Media Platform: Analyzing the News and Comments about Sino-US Relations on Toutiao. Paper presented at the annual conference of the International Association for Media and Communication Research (IAMCR), Online.
 
-# Publications
+## Publications
 
 Li, Y., Yan, L., **Jiang, X.**, Ren, L. & Wang, C-J. (2022). Multiple Actors in Emergency Science Popularization: Analyzing the Agenda Setting among the Subjects of Emergency Science Popularization Using Microblog Data. *China Computer-Mediated Communication Studies*. [Chinese] (Accepted)
