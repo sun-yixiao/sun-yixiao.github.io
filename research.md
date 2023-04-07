@@ -1,4 +1,4 @@
-layout: single
+layout: page
 title: Research
 permalink: /research/
 
