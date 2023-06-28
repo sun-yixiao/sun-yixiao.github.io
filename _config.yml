@@ -106,19 +106,19 @@ analytics:
 author:
   name             : "Yi-Xiao Sun" #左侧个人资料
   avatar           : "/assets/images/孙逸潇 证件照 白.png"
-  bio              : "M.A. student at NJU\nEmail: ywain.dagnysun@gmail.com"
+  bio              : "M.A. student at Nanjing University"
   location         : "Nanjing, China"
-  email            :
+  email            : "ywain.dagnysun@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "xinya.jiang@smail.nju.edu.cn"
+      url: "ywain.dagnysun@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/xinyaa_"
+      # url: "https://twitter.com/xinyaa_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
