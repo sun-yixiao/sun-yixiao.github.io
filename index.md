@@ -1,4 +1,4 @@
-I am a M.A. student in the School of Journalism and Communication at Nanjing University, advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/), as well as member of [Computational Communication Collaboratory](https://computational-communication.com/). My boyfriend is Yue-Wen Zhong, PhD candidate of Physics (Particle Physics) at Fudan University.
+I am a M.A. student in the School of Journalism and Communication at Nanjing University, advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/), as well as member of [Computational Communication Collaboratory](https://computational-communication.com/). My boyfriend is Yue-Wen Zhong, Ph.D. candidate of Physics (Particle Physics) at Fudan University.
 
 My research direction is Computational Communication. Recently, I have been interested in Computational Advertising and Quantative History Studies.
 
