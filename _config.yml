@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yixiao Sun" #左侧个人资料
-  avatar           : "/assets/images/pw.jpeg"
-  bio              : "M.A. student at NJU\n\nEmail: xinya.jiang@smail.nju.edu.cn"
+  name             : "Yi-Xiao Sun" #左侧个人资料
+  avatar           : "/assets/images/孙逸潇 证件照 白.jpeg"
+  bio              : "M.A. student at NJU\nEmail: ywain.dagnysun@gmail.com"
   location         : "Nanjing, China"
   email            :
   links:
