@@ -8,8 +8,8 @@ Besides, I am proficient in image processing and video editting with great aesth
 
 **Education**
 
-- 2022.09-2025.06: M.A. of Communication, School of Journalism and Communication, Nanjing University
-- 2018.09-2022.06: B.A. of Network and New Media, School of Journalism and Communication, Sichuan International Studies University
+- 2022.09-2025.06: M.A. in Communication, School of Journalism and Communication, Nanjing University
+- 2018.09-2022.06: B.A. in Network and New Media, School of Journalism and Communication, Sichuan International Studies University
   - National Scholarship for Undergraduate Student (2021.12)
   - Provincial Excellent Graduate (2022.06)
   - Provincial Excellent Undergraduate Thesis (2023.01)
