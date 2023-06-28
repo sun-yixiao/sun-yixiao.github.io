@@ -34,7 +34,7 @@ body {
 .search-content {
   flex: 1 0 auto;
 }
-
+/* 要右边空白就加paddling-right */
 .page {
   @include breakpoint($large) {
     float: right;
