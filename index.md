@@ -2,7 +2,7 @@ I am a M.A. student in the School of Journalism and Communication at Nanjing Uni
 
 My research direction is Computational Communication. Recently, I have been interested in Computational Advertising and Quantative History Studies.
 
-I do well in Python and take good command of R and Stata, basically on text mining, natural language processing, machine learning and causal inteference.
+I do well in Python and take good command of R and Stata, basically on text mining, natural language processing, machine learning and causal inference.
 
 Besides, I am proficient in image processing and video editting with great aesthetic.
 
