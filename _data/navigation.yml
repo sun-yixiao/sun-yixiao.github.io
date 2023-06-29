@@ -6,7 +6,7 @@ main:
      url: https://sun-yixiao.github.io/
    - title: "Research"
      url: /research/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "CV"
+     url: /CV/
   # - title: "Sitemap"
   #   url: /sitemap/
