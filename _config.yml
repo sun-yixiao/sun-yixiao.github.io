@@ -107,27 +107,27 @@ author:
   name             : "Yi-Xiao Sun" #左侧个人资料
   avatar           : "/assets/images/孙逸潇 证件照 白.png"
   bio              : "M.A. student, School of Journalism and Communication, Nanjing University\nywain.dagnysun@gmail.com"
-  location         : "No.163, Xianlin Avenue, Qixia District, Nanjing, China"
+  location         : "Nanjing, China"
   email            : "ywain.dagnysun@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "ywain.dagnysun@gmail.com"
+      # url: "ywain.dagnysun@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/xinyaa_"
+      url: "https://twitter.com/dagny_suen"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100015448728552&mibextid=LQQJ4d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/sun_yixiao?igshid=OGQ5ZDc2ODk2ZA=="
 
 # Site Footer
 footer:
