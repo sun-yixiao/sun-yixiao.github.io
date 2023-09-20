@@ -1,5 +1,5 @@
 
-**CONFERENCE PAPER**
+**CONFERENCE PAPERS**
 
 **Sun, Y.**, Yan, X.-F., Chen, J., Chen, Z. & Wang, C.-J. (2023). From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). _Presented at the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
 
