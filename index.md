@@ -1,10 +1,10 @@
-I am a M.A. student in the School of Journalism and Communication at Nanjing University, advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/), as well as member of [Computational Communication Collaboratory](https://computational-communication.com/). My boyfriend is Yue-Wen Zhong, Ph.D. candidate in Physics (Particle Physics) at Fudan University.
+I am currently a M.A. student in Communication (Computational Communication) at Nanjing University, advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/), as well as member of [Computational Communication Collaboratory](https://computational-communication.com/). My boyfriend is Yuewen Zhong, Ph.D. candidate in Physics (Particle Physics) at Fudan University.
 
 My research direction is Computational Communication. Recently, I have been interested in Computational Advertising and Quantative History Studies.
 
 I do well in Python and take good command of R and Stata, basically on text mining, statistical analysis, natural language processing, machine learning and causal inference.
 
-Besides, I am proficient in image processing and video editting with great aesthetic.
+Besides, I am proficient in image processing and video editting with great aesthetic. In addition, I possess Piano Level 8 Certificate.
 
 **Education**
 
