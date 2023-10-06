@@ -9,8 +9,4 @@ Besides, I am proficient in image processing and video editting with great aesth
 **Education**
 
 - 2022.09-2025.06: M.A. in Communication, School of Journalism and Communication, Nanjing University
-- 2018.09-2022.06: B.A. in Network and New Media, School of Journalism and Communication, Sichuan International Studies University
-  - GPA: 92.58
-  - National Scholarship for Undergraduate Student (2021.12)
-  - Chongqing Distinguished Graduate Student Award (2022.06)
-  - Chongqing Excellent Graduation Thesis Award (2023.01)
+- 2018.09-2022.06: B.A. in Network and New Media, School of Journalism and Communication, Sichuan International Studies University (graduated with honors; GPA: 92.58)
