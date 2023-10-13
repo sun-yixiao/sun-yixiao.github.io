@@ -1,6 +1,6 @@
 I am currently a M.A. student in Communication at Nanjing University (advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/)), as well as member of [Computational Communication Collaboratory](https://computational-communication.com/). My boyfriend is Yuewen Zhong, Ph.D. candidate in Physics (Particle Physics) at Fudan University.
 
-My research interest is Computational Communication and Ditital Humanities. Recently, I have been fascinated with Quantitative History Studies. I use quantitative methods to study the impact of conflicts (as exogenous shocks) on intercultural communication. My master's thesis is expected to study the inner-party dissent using diachronic tweets of Congressmen and congressional voting data.
+My research interest is Computational Communication and Digital Humanities. Recently, I have been fascinated with Quantitative History Studies. I use quantitative methods to study the impact of conflicts (as exogenous shocks) on intercultural communication. My master's thesis is expected to study the inner-party dissent using diachronic tweets of Congressmen and congressional voting data.
 
 I do well in Python and take good command of R and Stata, basically on text mining, statistical analysis, natural language processing, machine learning and causal inference.
 
