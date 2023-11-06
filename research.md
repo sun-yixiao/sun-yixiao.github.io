@@ -7,4 +7,4 @@ Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z. & Wang, C.-J. (2023). Traversing the Va
 
 **UNDER REVIEW**
 
-Chen, Z., Yu, W., **Sun, Y.**, Wang, C.-J.* (Under Review). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election. _Information Processing and Management_.
+Chen, Z., Yu, W., **Sun, Y.**, Wang, C.-J.* (Revise and Resubmit). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election. _Information Processing and Management_.
