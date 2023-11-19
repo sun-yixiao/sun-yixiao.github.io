@@ -14,7 +14,7 @@
 **Teaching Assistant Experiences**
 
 ------
-**Advertising Strategy & Creation** (Undergraduate lecture; Instructor: Dr. Zhihao Ma)
+**_Advertising Strategy & Creation_** (Undergraduate lecture; Instructor: Dr. Zhihao Ma)
 
 - Feedbacks from my students:
   - _"Yixiao is excellent! Thanks to her for sharing the word frequency analysis code and research methods, and I feel that her academics are very strong!"_
