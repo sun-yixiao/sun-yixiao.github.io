@@ -2,7 +2,7 @@
 
 ------
 
-- HUANG Jianliang Scholarship <div align="right" style="display: inline-block">Oct 2023</div>
+- HUANG Jianliang Scholarship <div align="right">Oct 2023</div>
 - Dissemination Data Mining Competition (National Second Place)
 - Chongqing Excellent Graduation Thesis Award
 - Chongqing Distinguished Graduate Student Award
