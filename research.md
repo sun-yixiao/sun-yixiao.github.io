@@ -20,4 +20,6 @@ Chen, Z., Yu, W., **Sun, Y.**, & Wang, C.-J.* (Revise and Resubmit). Will the Da
 
 ------
 
+**Sun, Y.**, & Wang, C.-J. Building Identity Through Narratives: Who Voices Dissent Within the Party?. (Manuscript in preparation).
+
 **Sun, Y.**, & Wang, C.-J. Chapter 19: Digital Marketing Performance Evaluation and Monitoring. In L. Zheng (Ed.), _Digital Marketing Textbook_. (Manuscript in preparation).
