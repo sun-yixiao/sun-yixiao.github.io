@@ -2,9 +2,9 @@
 
 ------
 
-**Sun, Y.**, Yan, X.-F., Chen, J., Chen, Z., & Wang, C.-J. (2023). From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). _Presented at the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
+**Sun, Y.**, Yan, X.-F., Chen, J., Chen, Z., & Wang, C.-J. (2023). From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
 
-Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z., & Wang, C.-J. (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo during the Outbreak of the Covid-19 Pandemic. _Presented at the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
+Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z., & Wang, C.-J. (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo during the Outbreak of the Covid-19 Pandemic. Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
 
 **Under Review**
 
@@ -20,6 +20,6 @@ Chen, Z., Yu, W., **Sun, Y.**, & Wang, C.-J.* (Revise and Resubmit). Will the Da
 
 ------
 
-**Sun, Y.**, & Wang, C.-J. Building Identity Through Narratives: Who Voices Dissent Within the Party?. (Manuscript in preparation).
+**Sun, Y.**, & Wang, C.-J. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
-**Sun, Y.**, & Wang, C.-J. Chapter 19: Digital Marketing Performance Evaluation and Monitoring. In L. Zheng (Ed.), _Digital Marketing Textbook_. (Manuscript in preparation).
+**Sun, Y.**, & Wang, C.-J. Chapter 19: Digital Marketing Performance Evaluation and Monitoring. In L. Zheng (Ed.), _Digital Marketing Textbook_.
