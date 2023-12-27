@@ -20,8 +20,8 @@ Chen, Z., Yu, W., **Sun, Y.**, & Wang, C.-J.* (Revise and Resubmit). Will the Da
 
 ------
 
-**Sun, Y.**, & Wang, C.-J. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
+**Sun, Y.**, & Wang, C.-J.\* Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
 **Sun, Y.**, Fei, Y., & Yu, C. ChatGPT as AI Companions: Characterizing the Social Relationship Between Users and ChatGPT.
 
-**Sun, Y.**, & Wang, C.-J. Chapter 19: Digital Marketing Performance Evaluation and Monitoring. In L. Zheng (Ed.), _Digital Marketing Textbook_.
+**Sun, Y.**, & Wang, C.-J.\* Chapter 19: Digital Marketing Performance Evaluation and Monitoring. In L. Zheng (Ed.), _Digital Marketing Textbook_.
