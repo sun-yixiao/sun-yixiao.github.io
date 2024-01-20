@@ -10,11 +10,11 @@ Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z., & Wang, C.-J. (2023). Traversing the V
 
 ------
 
+**Sun, Y.**, Chen, Z.\*, Yan, X.-F., Zhang, Y., Chen, J., & Wang, C.-J.* (Revise and Resubmit). Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932–1937). _Chinese Journal of Communication_.
+
 Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.-J.* (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience. _Journal of Communication_.
 
-**Sun, Y.**, Chen, Z.\*, Yan, X.-F., Zhang, Y., Chen, J., & Wang, C.-J.* (Revise and Resubmit). De-Cultural Globalization: The Impact of Military Conflicts on Advertising Strategies of Multinational Corporations in Modern China. _Chinese Journal of Communication_.
-
-Chen, Z., Yu, W., **Sun, Y.**, & Wang, C.-J.* (Revise and Resubmit). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election. _Information Processing and Management_.
+Chen, Z., Yu, W., **Sun, Y.**, & Wang, C.-J.* (Under Review). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election. _Information, Communication & Society_.
 
 **Selected Works in Progress**
 
