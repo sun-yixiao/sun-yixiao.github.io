@@ -22,6 +22,8 @@ Chen, Z., Yu, W., **Sun, Y.**, & Wang, C.-J.* (Under Review). Will the Dark Side
 
 **Sun, Y.**, & Wang, C.-J.\* Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
+**Sun, Y.**, & Ma, Z.\* Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
+
 **Sun, Y.**, Fei, Y., & Yu, C. ChatGPT as AI Companions: Characterizing the Social Relationship Between Users and ChatGPT.
 
 **Sun, Y.**, & Wang, C.-J.\* Chapter 19: Digital Marketing Performance Evaluation and Monitoring. In L. Zheng (Ed.), _Digital Marketing Textbook_.
