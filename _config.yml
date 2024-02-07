@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sun_yixiao?igshid=OGQ5ZDc2ODk2ZA=="
     - label: "Linkedin"
-      icon: "/assets/linkedin.png"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yixiao-sun-7b2435288"
 
 # Site Footer
