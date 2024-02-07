@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yixiao Sun" #左侧个人资料
   avatar           : "/assets/images/孙逸潇 证件照 白.png"
-  bio              : "M.A. student, School of Journalism and Communication, Nanjing University\nywain.dagnysun@gmail.com"
+  bio              : "M.A. student<br/>School of Journalism and Communication<br/>Nanjing University<br/>ywain.dagnysun@gmail.com"
   location         : "Nanjing, China"
   email            : "ywain.dagnysun@gmail.com"
   links:
