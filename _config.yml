@@ -127,7 +127,7 @@ author:
       url: "https://twitter.com/dagny_suen"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100015448728552&mibextid=LQQJ4d"
+      # url: "https://www.facebook.com/profile.php?id=100015448728552&mibextid=LQQJ4d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/sun-yixiao"
