@@ -14,6 +14,10 @@
 **Teaching Assistant Experiences**
 
 ------
+**_Text Data Analysis_** (Graduate Seminar; Instructor: Dr. Zhicong Chen)
+
+**_Planning and Creative Strategy_** (Graduate lecture; Instructor: Dr. Zhihao Ma)
+
 **_Advertising Strategy & Creation_** (Undergraduate lecture; Instructor: Dr. Zhihao Ma)
 
 - Feedbacks from my students:
