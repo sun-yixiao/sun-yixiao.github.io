@@ -1,5 +1,5 @@
 ---
-Teaching
+Title: "Teaching"
 ---
 
 ## **Teaching Assistant Experiences**
