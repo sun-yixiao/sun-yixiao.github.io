@@ -1,6 +1,7 @@
-# Teaching
 
-------
+
+
+
 
 ## **Teaching Assistant Experiences**
 
@@ -16,7 +17,6 @@
  when assigning tasks. She is perfect!"_
   - _"Yixiao is beyond admiration."_
 
-------
 
 ## **Teaching Resources**
 
