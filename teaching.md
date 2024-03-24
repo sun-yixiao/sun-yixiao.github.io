@@ -1,4 +1,4 @@
-**Teaching Assistant Experiences**
+#### **Teaching Assistant Experiences**
 
 ---
 
@@ -15,7 +15,7 @@
   - _"Yixiao is beyond admiration."_
 
 
-**Teaching Resources**
+#### **Teaching Resources**
 
 ---
 
