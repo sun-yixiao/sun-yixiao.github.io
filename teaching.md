@@ -1,4 +1,8 @@
-### **Teaching Assistant Experiences**
+# Teaching
+
+------
+
+## **Teaching Assistant Experiences**
 
 **_Text Data Analysis_** (Graduate seminar; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
 
@@ -14,7 +18,7 @@
 
 ------
 
-### **Teaching Resources**
+## **Teaching Resources**
 
 As a teaching assistant, I developed numerous codes for my students, explaining their functionality and demonstrating how to run them in class. Below are some representative utilities I offer:
 
