@@ -1,5 +1,7 @@
 ---
-Title: Teaching
+layout: single
+sidebar: 
+  nav: docs
 ---
 
 ## **Teaching Assistant Experiences**
