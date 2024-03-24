@@ -18,6 +18,10 @@
 
 As a teaching assistant, I developed numerous codes for my students, explaining their functionality and demonstrating how to run them in class. Below are some representative utilities I offer:
 
+**Natural Language Processing (NLP)**
+
+- **Bag of Words** and **TF-IDF**: Explaining the principles and functions of the Bag-of-Words model and the TF-IDF method, I demonstrate how to apply them when processing text data. -> [_BoW_Tfidf.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf.ipynb)
+
 **Social Media Data Sampling and Crawling**
 
 - **Random Digit Search (RDS)**: Following the approach of Zhu et al. [(2011)](https://doi.org/10.1177/0894439310382512), an estimation is made for the actual user population of NetEase Cloud Music. -> [_music163_RDS.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/music163_RDS.ipynb)
