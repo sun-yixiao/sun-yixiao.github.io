@@ -1,5 +1,5 @@
 ---
-Title: "Research"
+Title: Research
 ---
 
 ## **Conference Presentations**
