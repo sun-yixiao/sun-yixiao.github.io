@@ -1,5 +1,7 @@
 ---
-Title: Research
+layout: single
+sidebar: 
+  nav: docs
 ---
 
 ## **Conference Presentations**
