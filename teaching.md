@@ -1,6 +1,4 @@
-
-
-
+Teaching
 
 
 ## **Teaching Assistant Experiences**
