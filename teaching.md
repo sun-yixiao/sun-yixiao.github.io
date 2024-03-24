@@ -3,6 +3,7 @@ layout: single
 sidebar: 
   nav: docs
 ---
+# Teaching
 
 ## **Teaching Assistant Experiences**
 
