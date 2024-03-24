@@ -18,7 +18,6 @@ sidebar:
  when assigning tasks. She is perfect!"_
   - _"Yixiao is beyond admiration."_
 
-
 ## **Teaching Resources**
 
 As a teaching assistant, I developed numerous codes for my students, explaining their functionality and demonstrating how to run them in class. Below are some representative utilities I offer:
