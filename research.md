@@ -1,9 +1,4 @@
----
-layout: single
-sidebar: 
-  nav: docs
----
-# Research
+#    
 
 ## **Conference Presentations**
 
