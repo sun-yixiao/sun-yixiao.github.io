@@ -32,3 +32,13 @@ As a teaching assistant, I developed numerous codes for my students, explaining 
 **Social Media Data Sampling and Crawling**
 
 - **Random Digit Search (RDS)**: Following the approach of Zhu et al. [(2011)](https://doi.org/10.1177/0894439310382512), an estimation is made for the actual user population of NetEase Cloud Music. -> [_music163_RDS.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/music163_RDS.ipynb)
+
+
+#### **Other Resources to Share**
+
+---
+
+Outside of my work as a teaching assistant, I will periodically share methodological insights I've acquired during my research. My aim is to actively engage with other individuals interested in computational social science and quantitative research. Below are some items that may be useful:
+
+- Using R language to conduct [Bootstrapping method](https://github.com/sun-yixiao/teaching/discussions/2)
+- Performing ANOVA analysis to calculate [effect size](https://github.com/sun-yixiao/teaching/discussions/3) on panel data across multiple time points using R language
