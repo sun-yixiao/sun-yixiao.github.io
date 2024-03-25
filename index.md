@@ -10,5 +10,5 @@ Beyond my academic and research interests, I am also proficient in image process
 
 #### Education
 
-- Sep 2022—Jun 2025: M.A. in Communication, [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/) (GPA: 93.50)
+- Sep 2022—Jun 2025: M.A. in Communication, [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/) (GPA: 93.39)
 - Sep 2018—Jun 2022: B.A. in Network and New Media, [School of Journalism and Communication, Sichuan International Studies University](https://media.sisu.edu.cn/) (graduated with honors; GPA: 92.58)
