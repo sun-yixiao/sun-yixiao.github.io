@@ -23,7 +23,7 @@ As a teaching assistant, I developed numerous codes for my students, explaining 
 
 **Natural Language Processing (NLP)**
 
-- **Bag of Words** and **TF-IDF**: Explaining the principles and functions of the Bag-of-Words model and the TF-IDF method, I demonstrate how to apply them when processing text data. -> [_BoW_Tfidf.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf.ipynb)
+- **Bag of Words** and **TF-IDF**: Explaining the principles and functions of the Bag-of-Words model and the TF-IDF method, I demonstrated how to apply them when processing text data. Additionally, I also introduced two distinct approaches for preprocessing English and Chinese corpora. -> [_BoW_Tfidf_eng.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_eng.ipynb) for English corpora and [_BoW_Tfidf_chn.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_chn.ipynb) for Chinese corpora
 
 **Social Media Data Sampling and Crawling**
 
