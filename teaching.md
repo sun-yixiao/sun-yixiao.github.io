@@ -38,7 +38,7 @@ As a teaching assistant, I developed numerous codes for my students, explaining 
 
 ---
 
-Outside of my work as a teaching assistant, I will periodically share methodological insights I've acquired during my research. My aim is to actively engage with other individuals interested in computational social science and quantitative research. Below are some items that may be useful:
+Outside of my work as a teaching assistant, I will periodically share methodological insights I have acquired during my research. My aim is to actively engage with other individuals interested in computational social science and quantitative research. Below are some items that may be useful:
 
 - Using R language to conduct [Bootstrapping method](https://github.com/sun-yixiao/teaching/discussions/2)
 - Performing ANOVA analysis to calculate [effect size](https://github.com/sun-yixiao/teaching/discussions/3) on panel data across multiple time points using R language
