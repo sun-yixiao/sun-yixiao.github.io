@@ -6,6 +6,10 @@
 
 **_Planning and Creative Strategy_** (Graduate seminar; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
+- Feedbacks from my students:
+  - _"Yixiao lectures very clearly. We are lucky to have her!"_
+  - _"Yixiao always pinpoints and clearly explains the issues in our project, and I find her presence reassuring."_
+
 **_Advertising Strategy & Creation_** (Undergraduate lecture; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
 - Feedbacks from my students:
