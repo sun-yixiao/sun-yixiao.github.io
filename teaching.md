@@ -2,7 +2,7 @@
 
 ---
 
-**_Text Data Analysis_** (Graduate seminar; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
+**_Text Data Analysis_** (Graduate lecture; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
 
 **_Planning and Creative Strategy_** (Graduate seminar; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
