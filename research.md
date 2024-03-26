@@ -13,7 +13,7 @@ Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing th
 
 **Sun, Y.**, Yan, X.F., Zhang, Y., Chen, J., Chen, Z.\*, & Wang, C.J.\* (Revise and Resubmit). Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932–1937).
 
-Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
+Zhang, Y., **Sun, Y.**, Lu, G., Chen, Z.\*, & Wang, C.J.\* (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
 
 Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Under Review). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election.
 
