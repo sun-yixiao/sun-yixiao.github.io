@@ -4,10 +4,14 @@
 
 **_Text Data Analysis_** (Graduate lecture; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
 
+- Feedbacks from my students:
+  - _"I have to give Yixiao a perfect score on the evaluation! She is truly responsible!"_
+  - _"Yixiao explains coding in a way that's easy to understand, and she clearly explains the principles and objectives of each step. That's exactly what I was looking for!"_
+
 **_Planning and Creative Strategy_** (Graduate seminar; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
 - Feedbacks from my students:
-  - _"Yixiao lectures very clearly. We are lucky to have her!"_
+  - _"Yixiao lectures very clearly. We're lucky to have her!"_
   - _"Yixiao always pinpoints and clearly explains the issues in our project, and I find her presence reassuring."_
   - _"I think Yixiao is really talented and takes good command of coding!"_
 
