@@ -12,7 +12,7 @@
 
 - Feedbacks from my students:
   - _"Yixiao lectures very clearly. We're lucky to have her!"_
-  - _"Yixiao always clearly and precisely points out in our project, and I find her presence reassuring."_
+  - _"Yixiao always clearly and precisely points out the issues in our project, and I find her presence reassuring."_
   - _"I think Yixiao is really talented and takes good command of coding!"_
 
 **_Advertising Strategy & Creation_** (Undergraduate lecture; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
