@@ -34,6 +34,8 @@ As a teaching assistant, I developed numerous codes for my students, explaining 
 
 - **Bag of Words** and **TF-IDF**: Explaining the principles and functions of the Bag-of-Words model and the TF-IDF method, I demonstrated how to apply them when processing text data. Additionally, I also introduced two distinct approaches for preprocessing English and Chinese corpora. -> [_BoW_Tfidf_eng.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_eng.ipynb) for English corpora and [_BoW_Tfidf_chn.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_chn.ipynb) for Chinese corpora
 
+- **Word Embedding Model**: I explained the principles and functions of the Word Embedding model, demonstrated how to train or call the model, and used PCA to reduce the semantic space to two dimensions for visualizing the relative positions of word vectors. -> [_Word_Embedding.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/Word_Embedding.ipynb)
+
 **Social Media Data Sampling and Crawling**
 
 - **Random Digit Search (RDS)**: Following the approach of Zhu et al. [(2011)](https://doi.org/10.1177/0894439310382512), an estimation is made for the actual user population of NetEase Cloud Music. -> [_music163_RDS.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/music163_RDS.ipynb)
