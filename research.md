@@ -1,4 +1,4 @@
-#### **PEER-REVIEWED PUBLICATIONS**
+#### **Peer-Reviewed Publications**
 
 ---
 
