@@ -1,4 +1,4 @@
-#### **Conference Presentations**
+#### **PEER-REVIEWED PUBLICATIONS**
 
 ---
 
