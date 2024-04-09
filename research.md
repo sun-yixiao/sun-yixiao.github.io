@@ -2,6 +2,12 @@
 
 ---
 
+**Sun, Y.**, Yan, X.F., Zhang, Y., Chen, J., Chen, Z.\*, & Wang, C.J.\* (2024). Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932–1937). _Chinese Journal of Communication_. Accepted in April 2024.
+
+#### **Conference Presentations**
+
+---
+
 **Sun, Y.**, Yan, X.F., Zhang, Y., Chen, Z.\*, & Wang, C.J.\* (2023). From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
 
 Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo during the Outbreak of the Covid-19 Pandemic. Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
@@ -10,8 +16,6 @@ Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing th
 #### **Under Review**
 
 ---
-
-**Sun, Y.**, Yan, X.F., Zhang, Y., Chen, J., Chen, Z.\*, & Wang, C.J.\* (Revise and Resubmit). Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932–1937).
 
 Zhang, Y., **Sun, Y.**, Lu, G., Chen, Z.\*, & Wang, C.J.\* (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
 
