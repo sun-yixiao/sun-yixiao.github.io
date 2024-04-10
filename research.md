@@ -10,7 +10,7 @@
 
 **Sun, Y.**, Yan, X.F., Zhang, Y., Chen, Z.\*, & Wang, C.J.\* (2023). From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
 
-Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo during the Outbreak of the Covid-19 Pandemic. Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
+Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo during the Outbreak of the COVID-19 Pandemic. Paper Presented at _the 73rd Annual International Communication Association Conference (ICA)_, Toronto, Canada.
 
 
 #### **Under Review**
