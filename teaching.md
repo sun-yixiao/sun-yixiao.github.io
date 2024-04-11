@@ -7,6 +7,7 @@
 - Feedbacks from my students:
   - _"I have to give Yixiao a perfect score on the evaluation! She is truly responsible!"_
   - _"Yixiao explains coding in a way that's easy to understand, and she clearly explains the principles and objectives of each step. That's exactly what I was looking for!"_
+  - _Yixiao totally cleared up all my confusion in class – she's really sharp!_
 
 **_Planning and Creative Strategy_** (Graduate seminar; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
