@@ -33,6 +33,8 @@ As a teaching assistant, I developed numerous codes for my students, explaining 
 
 **Natural Language Processing (NLP)**
 
+- **Narrative Structure**: Based on the insights provided by Toubia [(2021)](https://doi.org/10.1073/pnas.2011695118), I developed a code to measure the _speed_, _volume_, and _circuitousness_ of narratives. -> [Narrative_Structure.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Narrative_Structure.ipynb)
+
 - **Bag of Words** and **TF-IDF**: Explaining the principles and functions of the Bag-of-Words model and the TF-IDF method, I demonstrated how to apply them when processing text data. Additionally, I also introduced two distinct approaches for preprocessing English and Chinese corpora. -> [_BoW_Tfidf_eng.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_eng.ipynb) for English corpora and [_BoW_Tfidf_chn.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/BoW_Tfidf_chn.ipynb) for Chinese corpora
 
 - **Word Embedding Model**: I explained the principles and functions of the Word Embedding model, demonstrated how to train or call the model, and used PCA to reduce the semantic space to two dimensions for visualizing the relative positions of word vectors. -> [_Word_Embedding.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/Word_Embedding.ipynb) or [_Word_Embedding_Update.ipynb_](https://github.com/sun-yixiao/teaching/blob/main/Word_Embeeding_Update.ipynb)
