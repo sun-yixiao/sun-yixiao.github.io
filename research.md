@@ -17,6 +17,8 @@ Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing th
 
 ---
 
+**Sun, Y.**, & Ma, Z.\* (Under Review). Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
+
 Zhang, Y., **Sun, Y.**, Lu, G., Chen, Z.\*, & Wang, C.J.\* (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
 
 Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Under Review). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election.
@@ -27,8 +29,6 @@ Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Under Review). Will th
  ---
 
 **Sun, Y.**, & Wang, C.J.\* Building Identity Through Narratives: Who Voices Dissent Within the Party?.
-
-**Sun, Y.**, & Ma, Z.\* Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
 
 **Sun, Y.**, Fei, Y., & Yu, C. ChatGPT as AI Companions: Characterizing the Social Relationship Between Users and ChatGPT.
 
