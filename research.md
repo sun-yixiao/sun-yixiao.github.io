@@ -30,6 +30,8 @@ Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Under Review). Will th
 
 **Sun, Y.**, & Wang, C.J.\* Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
+**Sun, Y.**, & Ma, Z.\* Dynamic Interplay Among Positive and Negative Affect During the COVID-19 Pandemic: A Panel Network Approach.
+
 **Sun, Y.**, Fei, Y., & Yu, C. ChatGPT as AI Companions: Characterizing the Social Relationship Between Users and ChatGPT.
 
 Zhou, Z., **Sun, Y.**, Liu, Y., Wang, C.J.* The Hard Times: Economics, Homicide, and Moral Narratives in Newspaper Coverage During the Great Depression.
