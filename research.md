@@ -28,7 +28,7 @@ Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Revise and Resubmit). 
 
  ---
 
-**Sun, Y.**, & Wang, C.J.\* Building Identity Through Narratives: Who Voices Dissent Within the Party?.
+**Sun, Y.**, Zhou, Z., & Wang, C.J.\* Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
 **Sun, Y.**, & Ma, Z.\* Dynamic Interplay Among Positive and Negative Affect During the COVID-19 Pandemic: A Panel Network Approach.
 
