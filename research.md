@@ -21,7 +21,7 @@ Zhang, Y., Lu, G., **Sun, Y.**, Chen, Z.\*, & Wang, C.J.\* (2023). Traversing th
 
 Zhang, Y., **Sun, Y.**, Lu, G., Chen, Z.\*, & Wang, C.J.\* (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
 
-Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Under Review). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election.
+Chen, Z., Yu, W., **Sun, Y.**, Wang, C.J., & Liu, X.F.\* (Revise and Resubmit). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election.
 
 
 #### **Selected Works in Progress**
