@@ -36,6 +36,6 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
 Zhenfeng Zhou, **Yixiao Sun**, Yangdong Liu, Cheng-Jun Wang\*. The Hard Times: Economics, Homicide, and Moral Narratives in Newspaper Coverage During the Great Depression.
 
-Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Attention with NFT Transaction on Twitter.
+Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
 
 **Yixiao Sun**, & Cheng-Jun Wang. Chapter 15: Digital Marketing Performance Evaluation and Monitoring. In Liyong Zheng (Ed.), _Digital Marketing Textbook_.
