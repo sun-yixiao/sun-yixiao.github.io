@@ -37,6 +37,8 @@ As a teaching assistant, I developed numerous codes for my students, explaining 
 
 - **Color Analysis**: I replicated the research methodology of Tager et al. [(2021)](https://doi.org/10.1002/col.22638), demonstrating how to convert an RGB image into an HSV image based on the Munsell Color System and analyzing the proportion of specific color type pixels within the entire image. -> [Color_Analysis.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Color_Analysis.ipynb)
 
+- **Audio Analysis**: I analyzed the audio for tempo and loudness using the librosa package. -> [Audio_Analysis.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Audio_Analysis.ipynb)
+
 **Natural Language Processing (NLP)**
 
 - **Narrative Structure**: Based on the insights provided by Toubia et al. [(2021)](https://doi.org/10.1073/pnas.2011695118), I developed a code to measure the _speed_, _volume_, and _circuitousness_ of narratives. -> [Narrative_Structure.ipynb](https://github.com/sun-yixiao/teaching/blob/main/Narrative_Structure.ipynb)
