@@ -38,8 +38,6 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
 **Yixiao Sun**, & Zhihao Ma\*. Dynamic Interplay Among Positive and Negative Affect During the COVID-19 Pandemic: A Panel Network Approach.
 
-**Yixiao Sun**, Yunjie Fei, & Chunyan Yu. ChatGPT as AI Companions: Characterizing the Social Relationship Between Users and ChatGPT.
-
 Zhenfeng Zhou, **Yixiao Sun**, Yangdong Liu, Cheng-Jun Wang\*. The Hard Times: Economics, Homicide, and Moral Narratives in Newspaper Coverage During the Great Depression.
 
 Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
