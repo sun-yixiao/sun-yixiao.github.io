@@ -36,7 +36,7 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
-**Yixiao Sun**, & Zhihao Ma\*. Dynamic Interplay Among Positive and Negative Affect During the COVID-19 Pandemic: A Panel Network Approach.
+**Yixiao Sun**, & Zhihao Ma\*. Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect Status During the COVID-19 Pandemic.
 
 Zhenfeng Zhou, **Yixiao Sun**, Yangdong Liu, Cheng-Jun Wang\*. The Hard Times: Economics, Homicide, and Moral Narratives in Newspaper Coverage During the Great Depression.
 
