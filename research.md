@@ -2,7 +2,7 @@
 
 ---
 
-**Yixiao Sun**, Xue-Fei Yan, Yaotian Zhang, Jing Chen, Zhicong Chen\*, & Cheng-Jun Wang\*. (2024). Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932–1937). _Chinese Journal of Communication_. Accepted in April 2024.
+**Yixiao Sun**, Xue-Fei Yan, Yaotian Zhang, Jing Chen, Zhicong Chen\*, & Cheng-Jun Wang\*. (2024). Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932–1937). _Chinese Journal of Communication_. Online First in April 2024.
 
 #### **Conference Presentations**
 
