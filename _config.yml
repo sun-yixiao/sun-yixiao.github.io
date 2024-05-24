@@ -127,7 +127,7 @@ author:
       url: "https://www.researchgate.net/profile/Yixiao-Sun-9"
     - label: "ORCID"
       icon: "ai ai-orcid-square ai-fw"
-      url: "https://orcid.org/0009-0005-2272-9067"
+      # url: "https://orcid.org/0009-0005-2272-9067"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dagny_suen"
