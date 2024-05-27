@@ -27,6 +27,8 @@ Yaotian Zhang, Gongjing Lu, **Yixiao Sun**, Zhicong Chen\*, & Cheng-Jun Wang\*. 
 
 Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
 
+Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. (Under Review). Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
+
 Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Revise and Resubmit). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election.
 
 
@@ -39,7 +41,5 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 **Yixiao Sun**, & Zhihao Ma\*. Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect Status During the COVID-19 Pandemic.
 
 Zhenfeng Zhou, **Yixiao Sun**, Yangdong Liu, Cheng-Jun Wang\*. The Hard Times: Economics, Homicide, and Moral Narratives in Newspaper Coverage During the Great Depression.
-
-Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
 
 **Yixiao Sun**, & Cheng-Jun Wang. Chapter 15: Digital Marketing Performance Evaluation and Monitoring. In Liyong Zheng (Ed.), _Digital Marketing Textbook_.
