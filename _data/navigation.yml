@@ -4,6 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
      url: https://sun-yixiao.github.io/
+   - title: "Publication"
+     url: /publication/
+   - title: "Conference"
+     url: /conference/
    - title: "Research"
      url: /research/
    - title: "Teaching"
