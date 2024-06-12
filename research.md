@@ -17,7 +17,7 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
-**Yixiao Sun**, & Zhihao Ma\*. Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect Status During the COVID-19 Pandemic.
+**Yixiao Sun**, & Zhihao Ma\*. Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect States During the COVID-19 Pandemic.
 
 Zhenfeng Zhou, **Yixiao Sun**, Cheng-Jun Wang\*. When the Blacks Take Up Arms: Black Enlistment and Racial Prejudice During the Civil War.
 
