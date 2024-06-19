@@ -2,6 +2,8 @@
 
 ---
 
+**Yixiao Sun**, & Zhihao Ma\*. (Under Review). Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect States During the COVID-19 Pandemic.
+
 **Yixiao Sun**, & Zhihao Ma\*. (Under Review). Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
 
 Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
@@ -16,8 +18,6 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
  ---
 
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
-
-**Yixiao Sun**, & Zhihao Ma\*. Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect States During the COVID-19 Pandemic.
 
 Zhenfeng Zhou, **Yixiao Sun**, Cheng-Jun Wang\*. When the Blacks Take Up Arms: Black Enlistment and Racial Prejudice During the Civil War.
 
