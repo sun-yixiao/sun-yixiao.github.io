@@ -10,7 +10,7 @@ Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. 
 
 Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. (Under Review). Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
 
-Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Revise and Resubmit). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election.
+Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Revise and Resubmit). Will the Dark Side of the Internet Lead to More Misinformation Beliefs? Evidence from the COVID-19 Pandemic and the 2020 U.S. Presidential Election. _Communication and the Public_.
 
 
 #### **Selected Works in Progress**
