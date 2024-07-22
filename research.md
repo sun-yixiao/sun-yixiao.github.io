@@ -17,7 +17,7 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
  ---
 
-**Yixiao Sun**, & Zhihao Ma\*. The Role of Agency in Shaping Individual Well-being: Insights from the Meaning in Life Perspective.
+**Yixiao Sun**, & Zhihao Ma\*. The Role of Agency in Shaping Individual Well-Being: The Meaning in Life Perspective.
 
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
