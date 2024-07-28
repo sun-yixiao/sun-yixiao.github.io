@@ -17,7 +17,7 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
  ---
 
-**Yixiao Sun**, & Zhihao Ma\*. The Role of Agency in Shaping Individual Well-Being: The Meaning in Life Perspective.
+**Yixiao Sun**, & Zhihao Ma\*. The Role of Agency and Meaning in Life in Forming Emotion During the COVID-19 Pandemic: Does Sex Matter?.
 
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
