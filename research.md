@@ -24,5 +24,3 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
 Zhenfeng Zhou, **Yixiao Sun**, Cheng-Jun Wang\*. When the Blacks Take Up Arms: Enlistment of African Americans and Racial Prejudice During the American Civil War.
-
-**Yixiao Sun**, & Cheng-Jun Wang. Chapter 15: Digital Marketing Performance Evaluation and Monitoring. In Liyong Zheng (Ed.), _Digital Marketing Textbook_.
