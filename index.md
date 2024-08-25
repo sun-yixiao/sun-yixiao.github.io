@@ -1,4 +1,4 @@
-I am currently pursuing a Master of Arts in Communication at Nanjing University (advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/)). I am also an active member of the [Computational Communication Collaboratory](https://computational-communication.com/).
+I am currently pursuing a Master of Arts in Communication at Nanjing University (advised by [Dr. Cheng-Jun Wang](https://chengjun.github.io/)). I am also an active member of the [Computational Communication Collaboratory](https://computational-communication.com/). **I am seeking a PhD opportunity for the Fall 2025.**
 
 My primary research interests lie in Computational Communication, specifically focusing on Computational Narratives and their Social Impacts. Methodologically, I can analyze human behaviors using large-scale digital footprint data. I excel in Python and take good command of R programming language, basically on text mining, statistical analysis, natural language processing, machine learning and causal inference. My research has been published in the _Chinese Journal of Communication_, a peer-reviewed journal indexed in the SSCI. Four external and internal grants have funded my research.
 
