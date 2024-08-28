@@ -2,9 +2,9 @@
 
 ---
 
-**Yixiao Sun**, & Zhihao Ma. (2024). Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief. Paper to be presented at _the 110th Annual National Communication Association (NCA) Conference_, New Orleans, LA. [Top Paper Award]
+**Yixiao Sun**, & Zhihao Ma. (2024). Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief. Paper to be presented at _the 110th Annual National Communication Association (NCA) Conference_, New Orleans, LA. [**Top Paper Award**]
 
-**Yixiao Sun**, Yunjie Fei, & Chunyan Yu. (2024). Resource Exchange, Perceived Social Support, Companionship and Intimacy: Characterizing the Social Relationship Between Users and ChatGPT. Paper to be presented at _the 110th Annual National Communication Association (NCA) Conference_, New Orleans, LA. [Top Student Paper Award]
+**Yixiao Sun**, Yunjie Fei, & Chunyan Yu. (2024). Resource Exchange, Perceived Social Support, Companionship and Intimacy: Characterizing the Social Relationship Between Users and ChatGPT. Paper to be presented at _the 110th Annual National Communication Association (NCA) Conference_, New Orleans, LA. [**Top Student Paper Award**]
 
 **Yixiao Sun**, & Zhenfeng Zhou. (2024). Building Identity Through Narratives: Who Voices Dissent Within the Party?. Paper to be presented at _the 110th Annual National Communication Association (NCA) Conference_, New Orleans, LA.
 
