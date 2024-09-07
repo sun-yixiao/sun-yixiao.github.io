@@ -19,7 +19,7 @@ Zhicong Chen, Wenting Yu, **Yixiao Sun**, Cheng-Jun Wang\*, & Xiaofan Liu\*. (Re
 
 **Yixiao Sun**, & Zhihao Ma\*. Measuring Agency Through Text and Language Data: Validating Two Distinct NLP Approaches, Riveter and LIWC, Across Diverse Scenarios.
 
-**Yixiao Sun**, & Zhihao Ma\*. The Role of Agency and Meaning in Life in Forming Emotion During the COVID-19 Pandemic: Does Sex Matter?.
+**Yixiao Sun**, & Zhihao Ma\*. Agency and Meaning in Life as Conscious Experiences Shape Individual Emotions.
 
 **Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
 
