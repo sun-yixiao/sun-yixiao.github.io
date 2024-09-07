@@ -6,7 +6,7 @@
 
 **Yixiao Sun**, & Zhihao Ma\*. (Under Review). Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
 
-Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. (Under Review). Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Fostering Resilience.
+Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. (Under Review).Let Us Not Wallow in the Valley of Despair: The Role of Emotion, Panic, and Sympathy Discourses in Promoting Productive Actions.
 
 Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. (Under Review). Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
 
