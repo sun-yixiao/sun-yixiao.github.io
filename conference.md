@@ -12,4 +12,4 @@ Yaotian Zhang, **Yixiao Sun**, Zhicong Chen, & Cheng-Jun Wang. (2024). How Emoti
     
 **Yixiao Sun**, Xue-Fei Yan, Yaotian Zhang, Zhicong Chen, & Cheng-Jun Wang. (2023). From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). Paper Presented at _the 73rd Annual International Communication Association (ICA) Conference_, Toronto, Canada.
 
-Yaotian Zhang, Gongjing Lu, **Yixiao Sun**, Zhicong Chen, & Cheng-Jun Wang. (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo during the Outbreak of the COVID-19 Pandemic. Paper Presented at _the 73rd Annual International Communication Association (ICA) Conference_, Toronto, Canada.
+Yaotian Zhang, Gongjing Lu, **Yixiao Sun**, Zhicong Chen, & Cheng-Jun Wang. (2023). Traversing the Valley of Despair in Affective Mobilization: Issue Engagement, Emotion, and Online Donation on Sina Weibo During the Outbreak of the COVID-19 Pandemic. Paper Presented at _the 73rd Annual International Communication Association (ICA) Conference_, Toronto, Canada.
