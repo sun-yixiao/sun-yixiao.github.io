@@ -2,21 +2,21 @@
 
 ---
 
-**_Text Data Analysis_** (Graduate lecture; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
+2024 Spring: **_Text Data Analysis_** (Graduate lecture at Nanjing University; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
 
 - Feedbacks from my students:
   - _"I have to give Yixiao a perfect score on the evaluation! She is truly responsible!"_
   - _"Yixiao explains coding in a way that's easy to understand, and she clearly explains the principles and objectives of each step. That's exactly what I was looking for!"_
   - _"Yixiao totally cleared up all my confusion in class – she's really sharp!"_
 
-**_Planning and Creative Strategy_** (Graduate seminar; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
+2024 Spring: **_Planning and Creative Strategy_** (Graduate seminar at Nanjing University; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
 - Feedbacks from my students:
   - _"Yixiao lectures very clearly. We're lucky to have her!"_
   - _"Yixiao always clearly and precisely points out the issues in our project, and I find her presence reassuring."_
   - _"I think Yixiao is really talented and takes good command of coding!"_
 
-**_Advertising Strategy & Creation_** (Undergraduate lecture; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
+2023 Fall and 2024 Fall: **_Advertising Strategy & Creation_** (Undergraduate lecture at Nanjing University; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
 - Feedbacks from my students:
   - _"Yixiao is excellent! Thanks to her for sharing the word frequency analysis code and research methods, and I feel that her academics are very strong!"_
