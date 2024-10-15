@@ -19,6 +19,4 @@ Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. (Under Review). Unraveling the 
 
 **Yixiao Sun**, & Zhihao Ma\*. Agency and Meaning in Life as Conscious Experiences Shape Individual Emotions.
 
-**Yixiao Sun**, Zhenfeng Zhou, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
-
-Zhenfeng Zhou, **Yixiao Sun**, Cheng-Jun Wang\*. When the Blacks Take Up Arms: Enlistment of African Americans and Racial Prejudice During the American Civil War.
+**Yixiao Sun**, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
