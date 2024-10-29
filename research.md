@@ -20,3 +20,5 @@ Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. 
 **Yixiao Sun**, & Zhihao Ma\*. Agency and Meaning in Life as Conscious Experiences Shape Individual Emotions.
 
 **Yixiao Sun**, & Cheng-Jun Wang\*. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
+
+Wenyuan Li, **Yixiao Sun**, Yifan Yue. Artificial Intelligence vs. Medical Experts: A Comparative Analysis of Semantic Quality and Readability in Health Advice from Large Language Models and Human Institutions.
