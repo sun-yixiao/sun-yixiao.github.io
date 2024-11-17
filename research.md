@@ -6,7 +6,7 @@
 
 **Yixiao Sun**, & Zhihao Ma\*. (Under Review). Authoritarians in Response to Social Crisis: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
 
-Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. (Under Review). Unraveling the Narrative Labyrinth: Analyzing the Effects of Narrative Structure, Confidence, and Emotion on Twitter Users’ Attention to NFT Transactions.
+Yaotian Zhang, **Yixiao Sun**, Cheng-Jun Wang\*. (Revise and Resubmit). Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Assets Transactions. _Journal of Broadcasting & Electronic Media_.
 
 Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen\*, & Cheng-Jun Wang\*. (Revise and Resubmit). Let Us Not Wallow in the Valley of Despair: The Role of Emotion, Panic, and Sympathy Discourses in Promoting Productive Actions. _International Journal of Business Communication_.
 
