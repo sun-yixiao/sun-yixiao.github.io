@@ -2,7 +2,7 @@
 
 ---
 
-**Yixiao Sun**, & Zhihao Ma\*. (Under Review). Bipolarity of Positive and Negative Affects: Investigating the Contemporaneous Relations of Nuanced Affect States During the COVID-19 Pandemic.
+**Yixiao Sun**, & Zhihao Ma\*. (Under Review). Bipolarity of Positive and Negative Affects: The Contemporaneous Relations of Nuanced Affect States.
 
 **Yixiao Sun**, & Zhihao Ma\*. (Under Review). Authoritarians in Response to Social Crisis: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
 
