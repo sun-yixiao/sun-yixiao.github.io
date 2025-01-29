@@ -6,7 +6,7 @@
 
 **Yixiao Sun**, & Zhihao Ma<sup>\*</sup>. (Under Review). Authoritarians in Response to Social Crisis: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief.
 
-Yaotian Zhang, **Yixiao Sun<sup>‡</sup>**, Cheng-Jun Wang<sup>\*</sup>. (Revise and Resubmit). Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. _Journal of Broadcasting & Electronic Media_. [**co-first author<sup>‡</sup>**]
+Yaotian Zhang, **Yixiao Sun<sup>†</sup>**, Cheng-Jun Wang<sup>\*</sup>. (Revise and Resubmit). Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. _Journal of Broadcasting & Electronic Media_. [**co-first author<sup>†</sup>**]
 
 Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen<sup>\*</sup>, & Cheng-Jun Wang<sup>\*</sup>\. (Revise and Resubmit). Let Us Not Wallow in the Valley of Despair: The Role of Emotion, Panic, and Sympathy Discourses in Promoting Productive Actions. _International Journal of Business Communication_.
 
