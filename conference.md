@@ -6,7 +6,7 @@
 
 [5] **Yixiao Sun**, Yunjie Fei, & Chunyan Yu. (2024). Resource Exchange, Perceived Social Support, Companionship and Intimacy: Characterizing the Social Relationship Between Users and ChatGPT. Paper presented at _the 110th Annual National Communication Association (NCA) Conference_, Human Communication and Technology Division, New Orleans, LA. [[**Top Student Paper Award**](/assets/awards/nca24_hctd.jpg)]
 
-[4] **Yixiao Sun**, & Zhenfeng Zhou. (2024). Building Identity Through Narratives: Who Voices Dissent Within the Party?. Paper in Progress presented at _the 110th Annual National Communication Association (NCA) Conference_, Political Communication Division, New Orleans, LA.
+[4] **Yixiao Sun.** (2024). Building Identity Through Narratives: Who Voices Dissent Within the Party?. Paper in Progress presented at _the 110th Annual National Communication Association (NCA) Conference_, Political Communication Division, New Orleans, LA.
 
 [3] Yaotian Zhang, **Yixiao Sun**, Zhicong Chen, & Cheng-Jun Wang. (2024). How Emotion and Narrative Foster Resilience in Adversity: The Case of Large-Scale Online Donations during COVID-19. Paper presented at _the 110th Annual National Communication Association (NCA) Conference_, Applied Communication Division, New Orleans, LA.
     
