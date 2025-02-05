@@ -4,12 +4,10 @@ My primary research interests are in Computational Social Science, with a focus 
 
 Recently, I have been buried in several intriguing concepts such as agency and meaning in life. Two of my core works are currently under peer review. One study examines the bipolarity of positive and negative affects, while another explores the dynamics of authoritarian personality during the COVID-19 pandemic. My master's thesis will seek to examine dissenting voting behavior by analyzing over four million tweets from Members of Congress alongside more than one million congressional roll call votes from 2017 to 2023.
 
-Beyond my academic and research interests, I am also proficient in image processing and video editing, with a strong sense of aesthetics. Furthermore, I hold a Piano Level 8 Certificate, reflecting my dedication to both creative and artistic endeavors.
-
 ------
 
 #### Education
 
-- Sep 2022—Jun 2025: M.A. in Communication, [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/) [Advisor: [Prof. Cheng-Jun Wang](https://chengjun.github.io/); GPA: 4.00/4.00 (93.39/100)]
+- Sep 2022—Jun 2025: M.A. in Communication, [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/); Advisor: [Prof. Cheng-Jun Wang](https://chengjun.github.io/); GPA: 4.00/4.00 (93.39/100)
   
-- Sep 2018—Jun 2022: B.A. in Internet and New Media, [School of Journalism and Communication, Sichuan International Studies University](https://media.sisu.edu.cn/) (graduated with honors) [Advisor: [Prof. Hao Liu](https://media.sisu.edu.cn/jsjl/719dfd1f447448cdb480d1ca14a92ce7.htm); GPA: 3.96/4.00 (92.49/100)]
+- Sep 2018—Jun 2022: B.A. in Internet and New Media, [School of Journalism and Communication, Sichuan International Studies University](https://media.sisu.edu.cn/) (graduated with honors); Advisor: [Prof. Hao Liu](https://media.sisu.edu.cn/jsjl/719dfd1f447448cdb480d1ca14a92ce7.htm); GPA: 3.96/4.00 (92.49/100)
