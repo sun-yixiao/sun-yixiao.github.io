@@ -17,8 +17,6 @@ Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen<sup>\*</sup>, & Cheng-J
 
 **Yixiao Sun**, & Zhihao Ma<sup>\*</sup>. Measuring Agency Through Text and Language Data: Validating Two Distinct NLP Approaches, Riveter and LIWC, Across Diverse Scenarios.
 
-**Yixiao Sun**, & Zhihao Ma<sup>\*</sup>. Agency and Meaning in Life as Conscious Experiences Shape Individual Emotions.
+**Yixiao Sun**, & Zhihao Ma<sup>\*</sup>. Agency and Meaning in Life as Conscious Experiences in Shaping Emotions.
 
 **Yixiao Sun**, & Cheng-Jun Wang<sup>\*</sup>. Building Identity Through Narratives: Who Voices Dissent Within the Party?.
-
-Wenyuan Li, **Yixiao Sun**, Yifan Yue. Artificial Intelligence vs. Medical Experts: A Comparative Analysis of Semantic Quality and Readability in Health Advice from Large Language Models and Human Institutions.
