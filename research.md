@@ -19,6 +19,6 @@ Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen<sup>\*</sup>, & Cheng-J
 
 **Yixiao Sun**, & Zhihao Ma<sup>\*</sup>. Agency and Meaning in Life as Conscious Experiences in Shaping Emotions.
 
-**Yixiao Sun**, & Cheng-Jun Wang<sup>\*</sup>. Unraveling the Relations Between Self-Agency and Dissent: A Big Data Analysis of U.S. Congressional Representatives' Twitter Narratives and Voting Records.
+**Yixiao Sun**, & Cheng-Jun Wang<sup>\*</sup>. How Narrative Identity Exposes Your Political Ambitions: Unraveling the Relations Between Agency, Communion, and Dissent Voting Behavior of U.S. Congressional Representatives.
 
 Wenyuan Li, **Yixiao Sun**, & Yifan Yue. Artificial Intelligence vs. Medical Experts: A Comparative Analysis of Semantic Quality and Readability in Health Advice from Large Language Models and Human Institutions.
