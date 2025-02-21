@@ -8,6 +8,8 @@ Recently, I have been buried in several intriguing concepts such as agency and m
 
 #### Education
 
+- Sep 2025—Jun 2029: Ph.D. in Communication, [Department of Communication, College of Communication Arts and Sciences, Michigan State University](https://comartsci.msu.edu/departments/communication); Advisor: [Dr. David M. Markowitz](https://www.davidmarkowitz.org/)
+
 - Sep 2022—Jun 2025: M.A. in Communication, [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/); Advisor: [Prof. Cheng-Jun Wang](https://chengjun.github.io/); GPA: 4.00/4.00 (93.39/100)
   
 - Sep 2018—Jun 2022: B.A. in Internet and New Media, [School of Journalism and Communication, Sichuan International Studies University](https://media.sisu.edu.cn/) (graduated with honors); Advisor: [Prof. Hao Liu](https://media.sisu.edu.cn/jsjl/719dfd1f447448cdb480d1ca14a92ce7.htm); GPA: 3.96/4.00 (92.49/100)
