@@ -4,7 +4,7 @@ My primary research interests are in computational psycholinguistics, with a foc
 
 My research has been published in the _Journal of Broadcasting & Electronic Media_, _Chinese Journal of Communication_ and _Communication and the Public_ journals. Four external and internal grants have funded my research. Additionally, I have received two awards from the National Communication Association for my research: the [Top Paper Award](/assets/awards/nca24_pld.jpg) from the Political Communication Division and the [Top Student Paper Award](/assets/awards/nca24_hctd.jpg) from the Human Communication and Technology Division.
 
-Recently, I have been buried in several intriguing concepts such as agency and meaning in life. Two of my core works are currently under peer review. One study examines the bipolarity of positive and negative affects, while another explores the dynamics of authoritarian personality during the COVID-19 pandemic. My master's thesis will seek to examine dissenting voting behavior by analyzing over four million tweets from Members of Congress alongside more than one million congressional roll call votes from 2017 to 2023.
+Recently, I have been buried in several intriguing concepts such as meaning in life, agency and communion. My master's thesis seeks to examine dissenting voting behavior by analyzing over three million tweets from Members of Congress alongside more than one million congressional roll call votes from 2017 to 2023.
 
 ------
 
