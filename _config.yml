@@ -230,21 +230,6 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      custom_css: "/assets/css/custom.scss"
-
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      custom_css: "/assets/css/custom.scss"
-
 
 # Outputting
 permalink: /:categories/:title/
