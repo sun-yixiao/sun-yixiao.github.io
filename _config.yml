@@ -231,11 +231,19 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
+      type: "posts"
     values:
-      custom_css: "assets/css/custom.scss"
+      layout: single
+      custom_css: "/assets/css/custom.scss"
+
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      custom_css: "/assets/css/custom.scss"
 
 
 # Outputting
