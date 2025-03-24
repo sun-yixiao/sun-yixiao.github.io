@@ -14,6 +14,6 @@
 
 **Yixiao Sun**, & Zhihao Ma<sup>\*</sup>. Agency and Meaning in Life as Conscious Experiences in Shaping Emotions.
 
-**Yixiao Sun**, Yaotian Zhang, & Cheng-Jun Wang<sup>\*</sup>. How Narrative Identity Exposes Your Political Ambitions: Unraveling the Relations Between Agency, Communion, and Dissent Voting Behavior of U.S. Congressional Representatives.
+**Yixiao Sun**, Yaotian Zhang, & Cheng-Jun Wang<sup>\*</sup>. Too Deep in the Role: Unveiling the Connection Between U.S. Political Elites' Social Media Narrative Identity and Their Dissent Voting Behavior.
 
 Wenyuan Li, **Yixiao Sun**, & Yifan Yue. Artificial Intelligence vs. Medical Experts: A Comparative Analysis of Semantic Quality and Readability in Health Advice from Large Language Models and Human Institutions.
