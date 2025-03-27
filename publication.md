@@ -2,7 +2,7 @@
 
 ---
 
-[4] Yaotian Zhang, **Yixiao Sun<sup>†</sup>**, Cheng-Jun Wang<sup>\*</sup>. (2025). Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. _Journal of Broadcasting & Electronic Media_. Accepted in March 2025. [**co-first author<sup>†</sup>**] [[Replication](https://osf.io/zhwxy/)]
+[4] Yaotian Zhang, **Yixiao Sun<sup>†</sup>**, Cheng-Jun Wang<sup>\*</sup>. (2025). Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. _Journal of Broadcasting & Electronic Media_. Accepted in March 2025. [**co-first author<sup>†</sup>**] [[DOI](https://doi.org/10.1080/08838151.2025.2484347)][[Replication](https://osf.io/zhwxy/)]
 
 [3] Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen<sup>\*</sup>, & Cheng-Jun Wang<sup>\*</sup>\. (2025). Let Us Not Wallow in the Valley of Despair: The Role of Emotion, Panic, and Sympathy Discourses in Promoting Productive Actions. _International Journal of Business Communication_. Accepted in March 2025.
 
