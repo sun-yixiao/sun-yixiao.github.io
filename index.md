@@ -2,7 +2,7 @@ I am currently pursuing a Master of Arts in Communication at Nanjing University 
 
 My research primarily focuses on computational psycholinguistics, using computational methods to examine how communicative materials influence both societal institutions and individual mental states and behaviors. Methodologically, I can analyze human behaviors using large-scale digital footprint data. I excel in Python and take good command of R programming language, basically on mathematical statistics, natural language processing, and causal inference. 
 
-My research has been published in the _Journal of Broadcasting & Electronic Media_, _International Journal of Business Communication_, _Chinese Journal of Communication_ and _Communication and the Public_ journals. Four external and internal grants have funded my research. Additionally, I have received two awards from the National Communication Association for my research: the [Top Paper Award](/assets/awards/nca24_pld.jpg) from the Political Communication Division and the [Top Student Paper Award](/assets/awards/nca24_hctd.jpg) from the Human Communication and Technology Division.
+My work has been published in the _Journal of Broadcasting & Electronic Media_, _International Journal of Business Communication_, _Chinese Journal of Communication_ and _Communication and the Public_ journals. Four external and internal grants have funded my research. Additionally, I have received two awards from the National Communication Association for my research: the [Top Paper Award](/assets/awards/nca24_pld.jpg) from the Political Communication Division and the [Top Student Paper Award](/assets/awards/nca24_hctd.jpg) from the Human Communication and Technology Division.
 
 #### **Education**
 
