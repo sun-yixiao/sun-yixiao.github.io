@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "https://sun-yixiao.github.io/CV"
+      # url: "https://sun-yixiao.github.io/CV"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=4NXjwgoAAAAJ&hl=en"
