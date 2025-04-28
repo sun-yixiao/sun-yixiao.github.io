@@ -4,9 +4,9 @@ My research primarily focuses on computational psycholinguistics, using computat
 
 My research has been published in the _Journal of Broadcasting & Electronic Media_, _International Journal of Business Communication_, _Chinese Journal of Communication_ and _Communication and the Public_ journals. Four external and internal grants have funded my research. Additionally, I have received two awards from the National Communication Association for my research: the [Top Paper Award](/assets/awards/nca24_pld.jpg) from the Political Communication Division and the [Top Student Paper Award](/assets/awards/nca24_hctd.jpg) from the Human Communication and Technology Division.
 
-------
+#### **Education**
 
-#### Education
+------
 
 - Sep 2025—Jun 2029: Ph.D. in Communication, [Department of Communication, College of Communication Arts and Sciences, Michigan State University](https://comartsci.msu.edu/departments/communication); Advisor: [Dr. David M. Markowitz](https://www.davidmarkowitz.org/)
 
