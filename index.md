@@ -8,7 +8,7 @@ My work has been published in the _Journal of Broadcasting & Electronic Media_, 
 
 ------
 
-- Sep 2025—Jun 2029: Ph.D. in Communication, [Department of Communication, College of Communication Arts and Sciences, Michigan State University](https://comartsci.msu.edu/departments/communication); Advisor: [Dr. David M. Markowitz](https://www.davidmarkowitz.org/)
+- Aug 2025—Jun 2029: Ph.D. in Communication, [Department of Communication, College of Communication Arts and Sciences, Michigan State University](https://comartsci.msu.edu/departments/communication); Advisor: [Dr. David M. Markowitz](https://www.davidmarkowitz.org/)
 
 - Sep 2022—Jun 2025: M.A. in Communication, [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/) (with Distinguished Honor Graduate Award); Advisor: [Prof. Cheng-Jun Wang](https://chengjun.github.io/); GPA: 4.00/4.00 (93.39/100)
   
