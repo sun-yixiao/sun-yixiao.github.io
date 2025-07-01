@@ -4,7 +4,7 @@ Methodologically, I specialize in analyzing human behavior through large-scale d
 
 As a computational psycholinguistic researcher, I aim to push the boundaries of computational methods by developing new frameworks for analyzing complex elements of human communication—such as _identity_, _context_, _narrative_, and _rhetoric_—and by tracing how these elements reveal the evolving dynamics of people’s psychology and behavior.
 
-My work has been published in leading journals, including the _Journal of Broadcasting & Electronic Media_, _International Journal of Business Communication_, _Chinese Journal of Communication_ and _Communication and the Public_. My research has been supported by four internal and external grants, and recognized with two national honors from the National Communication Association: the [Top Paper Award](/assets/awards/nca24_pld.jpg) from the Political Communication Division and the [Top Student Paper Award](/assets/awards/nca24_hctd.jpg) from the Human Communication and Technology Division.
+My work has been published in leading journals, including the _Journal of Broadcasting & Electronic Media_, _International Journal of Business Communication_, _Chinese Journal of Communication_ and _Communication and the Public_. My research has been supported by four internal and external grants, and recognized with two academic honors from the National Communication Association: the [Top Paper Award](/assets/awards/nca24_pld.jpg) from the Political Communication Division and the [Top Student Paper Award](/assets/awards/nca24_hctd.jpg) from the Human Communication and Technology Division.
 
 #### **Education**
 
