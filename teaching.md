@@ -20,7 +20,7 @@
   - _"Yixiao always clearly and precisely points out the issues in our project, and I find her presence reassuring."_
   - _"I think Yixiao is really talented and takes good command of coding!"_
 
-2023 Fall and 2024 Fall: **_Advertising Strategy & Creation_** (Undergraduate lecture at Nanjing University; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
+2023 Fall and 2024 Fall: **_Advertising Strategy and Creation_** (Undergraduate lecture at Nanjing University; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
 
 - Feedbacks from my students:
   - _"Yixiao is excellent! Thanks to her for sharing the word frequency analysis code and research methods, and I feel that her academics are very strong!"_
