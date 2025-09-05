@@ -2,9 +2,9 @@
 
 ---
 
-[8] **Yixiao Sun**, & Zhihao Ma. (2025). Bipolarity of Positive and Negative Affects: Contemporaneous Network Relations of Nuanced Affect States. Paper to be present at _National Communication Association (NCA) 111th Annual Convention_, Communication Anxiety and Apprehension Division, Denver, CO.
+[8] **Yixiao Sun**, & Zhihao Ma. (2025). Bipolarity of Positive and Negative Affects: Contemporaneous Network Relations of Nuanced Affect States. Paper to be presented at _National Communication Association (NCA) 111th Annual Convention_, Communication Anxiety and Apprehension Division, Denver, CO.
 
-[7] Wenyuan Li, **Yixiao Sun**, & Yifan Yue. (2025). Artificial Intelligence vs. Medical Experts: A Comparative Analysis of Semantic Quality and Readability in Health Advice from Large Language Models and Human Institutions. Paper in Progress to be present at _National Communication Association (NCA) 111th Annual Convention_, Health Communication Division, Denver, CO.
+[7] Wenyuan Li, **Yixiao Sun**, & Yifan Yue. (2025). Artificial Intelligence vs. Medical Experts: A Comparative Analysis of Semantic Quality and Readability in Health Advice from Large Language Models and Human Institutions. Paper in Progress to be presented at _National Communication Association (NCA) 111th Annual Convention_, Health Communication Division, Denver, CO.
 
 [6] **Yixiao Sun**, & Zhihao Ma. (2024). Authoritarians in Response to Societal Crises: Reciprocal Dynamics of Right-Wing Authoritarianism, COVID-19 Fear and Prevention Belief. Paper presented at _National Communication Association (NCA) 110th Annual Convention_, Political Communication Division, New Orleans, LA. [[**Top Paper Award**](/assets/awards/nca24_pld.jpg)]
 
