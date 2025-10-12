@@ -4,8 +4,6 @@
 
 2025 Fall: **_COM 100: Human Communication_** (Undergraduate lecture at Michigan State University; Instructor: [Dr. Dustin Carnahan](https://comartsci.msu.edu/our-people/dustin-carnahan))
 
-2025 Spring: **_Applications of Large Language Models in Digital Humanities_** (Undergraduate lecture at Nanjing University; Instructor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2))
-
 2024 Spring: **_Text Data Analysis_** (Graduate lecture at Nanjing University; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
 
 - Feedbacks from my students:
