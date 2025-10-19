@@ -4,6 +4,11 @@
 
 2025 Fall: **_COM 100: Human Communication_** (Undergraduate lecture at Michigan State University; Instructor: [Dr. Dustin Carnahan](https://comartsci.msu.edu/our-people/dustin-carnahan))
 
+- Feedbacks from my students:
+  - _"Yixiao is clearly very passionate about the course and dedicated to helping her students improve at public speaking. I am already very satisfied with the way she helps out and leads the class – I do not have any suggestions. I find this course extremely helpful and am very glad I have Yixiao as my TA."_
+  - _"Yixiao does great! She explains things well and is very kind. You can tell she truly wants what's best for her students."_
+  - _"I love Yixiao! She is very kind and understanding, and she is someone I look up to as a communication scholar. I don't think there are ways she could provide more support to me because she is already so supportive!"_
+
 2024 Spring: **_Text Data Analysis_** (Graduate lecture at Nanjing University; Instructor: [Dr. Zhicong Chen](https://zhicongchen.github.io/))
 
 - Feedbacks from my students:
