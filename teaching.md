@@ -2,7 +2,7 @@
 
 ---
 
-2025 Fall: **_COM 100: Human Communication_** (Undergraduate lecture at Michigan State University; Instructor: [Dr. Dustin Carnahan](https://comartsci.msu.edu/our-people/dustin-carnahan))
+2025 Fall, 2026 Spring: **_COM 100: Human Communication_** (Undergraduate lecture at Michigan State University; Instructor: [Dr. Dustin Carnahan](https://comartsci.msu.edu/our-people/dustin-carnahan))
 
 - Feedbacks from my students:
   - _"Yixiao is clearly very passionate about the course and dedicated to helping her students improve at public speaking. I am already very satisfied with the way she helps out and leads the class – I do not have any suggestions. I find this course extremely helpful and am very glad I have Yixiao as my TA."_
