@@ -128,7 +128,7 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid-square ai-fw"
       # url: "https://orcid.org/0009-0005-2272-9067"
-    - label: "Twitter"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dagny_suen"
     - label: "Facebook"
