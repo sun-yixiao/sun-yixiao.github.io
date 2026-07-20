@@ -2,6 +2,8 @@
 
 ---
 
+[9] **Yixiao Sun.** (2026). Behind the roles we play: How U.S. politicians’ social media narrative identity relates to their dissent voting behavior. Paper to be presented at _National Communication Association (NCA) 112th Annual Convention_, Political Communication Division, New Orleans, LA. 
+
 [8] **Yixiao Sun**, & Zhihao Ma. (2025). Bipolarity of positive and negative affects: Contemporaneous network relations of nuanced affect states. Paper to be presented at _National Communication Association (NCA) 111th Annual Convention_, Communication Anxiety and Apprehension Division, Denver, CO.
 
 [7] Wenyuan Li, **Yixiao Sun**, & Yifan Yue. (2025). Artificial intelligence vs. medical experts: A comparative analysis of semantic quality and readability in health advice from large language models and human institutions. Paper in Progress to be presented at _National Communication Association (NCA) 111th Annual Convention_, Health Communication Division, Denver, CO.
