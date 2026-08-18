@@ -2,6 +2,8 @@
 
 ---
 
+[5] David M. Markowitz, & **Yixiao Sun**. (2026). Language and Persuasion Research: A Computational Literature Review Spanning Five Decades of Scholarship (1974–2025). _Social and Personality Psychology Compass_. Accepted in August 2026.
+
 [4] Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen, & Cheng-Jun Wang. (2025). Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. _International Journal of Business Communication_. Online First in May 2025. [[DOI](https://doi.org/10.1177/23294884251333665)][[Replication](https://osf.io/sq4ja/)]
 
 [3] Yaotian Zhang<sup>†</sup>, **Yixiao Sun<sup>†</sup>**, Cheng-Jun Wang. (2025). Unraveling the shape of social media narratives: Analyzing the effects of online interaction and narrative structure on attention to digital asset transactions. _Journal of Broadcasting & Electronic Media_. 69(3), 200–218. [**Co-first author<sup>†</sup>**] [[DOI](https://doi.org/10.1080/08838151.2025.2484347)][[Replication](https://osf.io/zhwxy/)]
