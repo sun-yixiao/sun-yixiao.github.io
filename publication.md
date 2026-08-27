@@ -2,7 +2,7 @@
 
 ---
 
-[5] David M. Markowitz, & **Yixiao Sun**. (2026). Language and persuasion research: A computational literature review spanning five decades of scholarship (1974–2025). _Social and Personality Psychology Compass_. Accepted in August 2026.
+[5] David M. Markowitz, & **Yixiao Sun**. (2026). Language and persuasion research: A computational literature review spanning five decades of scholarship (1974–2025). _Social and Personality Psychology Compass_. Accepted in August 2026. [[DOI](https://doi.org/10.1111/spc3.70171)]
 
 [4] Yaotian Zhang, **Yixiao Sun**, Gongjing Lu, Zhicong Chen, & Cheng-Jun Wang. (2025). Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. _International Journal of Business Communication_. Online First in May 2025. [[DOI](https://doi.org/10.1177/23294884251333665)][[Replication](https://osf.io/sq4ja/)]
 
